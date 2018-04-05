@@ -1,0 +1,10 @@
+D:\VS\sayisalloto\sayisalloto\bin\Debug\sayisalloto.exe.config
+D:\VS\sayisalloto\sayisalloto\bin\Debug\sayisalloto.exe
+D:\VS\sayisalloto\sayisalloto\bin\Debug\sayisalloto.pdb
+D:\VS\sayisalloto\sayisalloto\bin\Debug\sayisalloto.xml
+D:\VS\sayisalloto\sayisalloto\obj\Debug\sayisalloto.Form1.resources
+D:\VS\sayisalloto\sayisalloto\obj\Debug\sayisalloto.Resources.resources
+D:\VS\sayisalloto\sayisalloto\obj\Debug\sayisalloto.vbproj.GenerateResource.Cache
+D:\VS\sayisalloto\sayisalloto\obj\Debug\sayisalloto.exe
+D:\VS\sayisalloto\sayisalloto\obj\Debug\sayisalloto.xml
+D:\VS\sayisalloto\sayisalloto\obj\Debug\sayisalloto.pdb
